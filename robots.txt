@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://onegiovo.github.io/QpY/sitemap_index.txt
+Sitemap: https://onegiovo.github.io/dWV/sitemap_index.txt
+Sitemap: https://onegiovo.github.io/mpG/sitemap_index.txt
+Sitemap: https://onegiovo.github.io/rML/sitemap_index.txt
